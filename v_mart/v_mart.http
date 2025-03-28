@@ -1,0 +1,6 @@
+@v_mart_HostAddress = http://localhost:5036
+
+GET {{v_mart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
